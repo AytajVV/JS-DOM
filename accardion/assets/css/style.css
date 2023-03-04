@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.accardion{
+    background-color: gray;
+    width: 100%;
+    text-align: left;
+    padding: 18px;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+    
+}
+.accardion:hover{
+    background-color: #ccc;
+}
+
+.panel{
+    padding: 5px 18px;
+    overflow: hidden;
+    background-color: whitesmoke;
+    
+}
