@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col-6{
+    width: 800px;
+    height: 600px;
+    background-color: thistle;
+}
+.col-12{
+    width: 750px;
+    height: 70px;
+    background-color: white;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: #284E60;
+    color: thistle;
+}
+.green{
+    width: 750px;
+    height: 400px;
+    background-color: #284E60;
+}
+.fields{
+    width: 700px;
+    height: 80px;
+    background-color: #63AAC0;
+}
